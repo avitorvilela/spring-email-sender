@@ -1,4 +1,4 @@
-### A simples email sender, using Java, Spring Web, Spring Boot DevTools and Java Mail Sender.
+### A simple email sender, using Java, Spring Web, Spring Boot DevTools and Java Mail Sender.
 
 #### Postman /POST
 
